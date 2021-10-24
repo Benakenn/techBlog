@@ -23,7 +23,7 @@ Your task this week is to build a CMS-style blog site similar to a Wordpress sit
 
 The following animation demonstrates the application functionality:
 
-![Animation cycles through signing into the app, clicking on buttons, and updating blog posts.](./Assets/14-mvc-homework-demo-01.gif) 
+![Test demo displaying signing into the app and updating tech posts.](./Assets/14-mvc-homework-demo-01.gif) 
 
 ## Getting Started
 
